@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an bakery
-- 🌱 I’m currently learning programming on Alura
+- 🔭 I’m currently working on a bakery
+- 🌱 I’m currently learning how to programming on Alura
 - 💬 Ask me about videogames, songs, skateboard
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i play videogames
